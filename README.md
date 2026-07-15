@@ -5,7 +5,7 @@ An enterprise-grade, fully automated data pipeline that connects directly to a *
 ## 🚀 Live Automated Dashboard Demo
 Instead of reviewing static code outputs, you can experience the dynamically generated executive dashboard live on your browser:
 
-👉 ** [Launch Live BI Report Dashboard] (https://apostoliskalli-dot.github.io/messy_ecommerce_sales_data/)**
+👉 ** [Launch Live BI Report Dashboard] (https://apostoliskalli-dot.github.io/Retail-Sales-Dataset/)**
 
 ---
 
@@ -51,4 +51,4 @@ The header of the report utilizes unified Plotly subplots wrapped in stylized CS
 
 ---
 
-👉 **[Δείτε το Live Dashboard εδώ!] (https://apostoliskalli-dot.github.io/messy_ecommerce_sales_data/)**
+👉 **[Δείτε το Live Dashboard εδώ!] (https://apostoliskalli-dot.github.io/Retail-Sales-Dataset/)**
