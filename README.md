@@ -1,4 +1,4 @@
-# ⚙️ ⚙️ Automated End-to-End BI Data Pipeline & Reporting System
+#⚙️ Automated End-to-End BI Data Pipeline & Reporting System
 
 An enterprise-grade, fully automated data pipeline that connects directly to a Google Cloud Platform (BigQuery) data warehouse, programmatically engineers messy e-commerce logs, performs statistical hypothesis testing, and dynamically compiles an interactive, production-ready Business Intelligence Report with zero manual intervention.
 
