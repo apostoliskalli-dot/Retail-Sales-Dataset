@@ -6,7 +6,7 @@ An enterprise-grade, fully automated data pipeline that connects directly to a G
 Instead of reviewing static code outputs, you can experience the dynamically generated executive dashboard live on your browser
 
 👉 ** [Launch Live BI Report Dashboard] (https://apostoliskalli-dot.github.io/Retail-Sales-Dataset/)**
-
+👉 Launch Live BI Report Dashboard
 ---
 
 # 🛠️ Project Architecture & Workflow
