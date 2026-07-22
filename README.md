@@ -2,7 +2,7 @@
 
 An enterprise-grade, fully automated data pipeline that connects directly to a Google Cloud Platform (BigQuery) data warehouse, programmatically engineers messy e-commerce logs, performs statistical hypothesis testing, and dynamically compiles an interactive, production-ready Business Intelligence Report with zero manual intervention.
 
-## 🚀 Live Automated Dashboard Demo
+# 🚀 Live Automated Dashboard Demo
 Instead of reviewing static code outputs, you can experience the dynamically generated executive dashboard live on your browser
 
 👉 ** [Launch Live BI Report Dashboard] (https://apostoliskalli-dot.github.io/Retail-Sales-Dataset/)**
