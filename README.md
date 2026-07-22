@@ -7,6 +7,7 @@ Instead of reviewing static code outputs, you can experience the dynamically gen
 
 👉 ** [Launch Live BI Report Dashboard] (https://apostoliskalli-dot.github.io/Retail-Sales-Dataset/)**
 👉 Launch Live BI Report Dashboard
+👉 **[Launch Live BI Report Dashboard](https://apostoliskalli-dot.github.io/Retail-Sales-Dataset/)**
 ---
 
 # 🛠️ Project Architecture & Workflow
