@@ -9,7 +9,7 @@ Instead of reviewing static code outputs, you can experience the dynamically gen
 
 ---
 
-## 🛠️ Project Architecture & Workflow
+# 🛠️ Project Architecture & Workflow
 
 ### 1. Data Ingestion & Warehouse Connection
 * Established secure authentication and connection between Google Colab environment and **GCP BigQuery**.
@@ -25,7 +25,7 @@ Instead of reviewing static code outputs, you can experience the dynamically gen
 * **Statistical Hypothesis Testing:** Applied parametric and non-parametric statistical tests (e.g., ANOVA, Chi-Square, T-Tests) to validate data-driven assumptions, evaluate variance significance across customer segments, and confirm performance trends with statistical rigor.
 ---
 
-## 📈 Core BI Metrics Formulation (KPI Cards)
+# 📈 Core BI Metrics Formulation (KPI Cards)
 
 The header of the report utilizes unified Plotly subplots wrapped in stylized CSS card constructs to track primary high-level financial and operational health logs:
 * **Total Revenue:** Aggregated multi-year gross transactional value.
@@ -35,7 +35,7 @@ The header of the report utilizes unified Plotly subplots wrapped in stylized CS
 
 ---
 
-## 🔬 Visual Deep-Dives Developed
+# 🔬 Visual Deep-Dives Developed
 
 * **Sales Contribution by Category:** Integrated data matrix tables side-by-side with localized multi-colored horizontal charts to track leading inventory segments.
 * **Elasticity Price vs. Quantity:** Multi-variable bubble chart tracking sales velocity correlation against unit pricing, scaling bubble dimensions to display gross revenue contributions per item.
@@ -47,7 +47,7 @@ The header of the report utilizes unified Plotly subplots wrapped in stylized CS
   * Segmented customers into distinct age cohorts and applied the **Kruskal-Wallis H-test** to identify statistically significant variance in spending patterns across age groups without assuming normality.
 ---
 
-## 🖥️ Executive Deployment & Deliverables
+# 🖥️ Executive Deployment & Deliverables
 
 * Configured a custom compiler loop script in Python to translate separate, active visualization objects into an integrated, lightweight, standalone **HTML/CSS executive document**.
 * Automated live continuous hosting infrastructure utilizing **GitHub Pages**, providing instantly accessible asset links for non-technical leadership and corporate stakeholders.
