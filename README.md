@@ -54,5 +54,4 @@ The header of the report utilizes unified Plotly subplots wrapped in stylized CS
 
 ---
 
-👉 [Δείτε το Live Dashboard εδώ!] **[Launch Live BI Report Dashboard](https://apostoliskalli-dot.github.io/Retail-Sales-Dataset/)**
-
+👉 **[Launch Live BI Report Dashboard](https://apostoliskalli-dot.github.io/Retail-Sales-Dataset/)**
