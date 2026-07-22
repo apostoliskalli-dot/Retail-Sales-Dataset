@@ -29,7 +29,7 @@ Instead of reviewing static code outputs, you can experience the dynamically gen
 
 The header of the report utilizes unified Plotly subplots wrapped in stylized CSS card constructs to track primary high-level financial and operational health logs:
 * **Total Revenue:** Aggregated multi-year gross transactional value.
-* **Average Order Value (AOV)
+* **Average Order Value (AOV)**
 * **Total Orders:** Net structural transaction volume.
 * **Volume Performance:** Total units distributed.
 
