@@ -1,9 +1,9 @@
-# ⚙️ Automated End-to-End BI Data Pipeline & Reporting System
+# ⚙️ ⚙️ Automated End-to-End BI Data Pipeline & Reporting System
 
-An enterprise-grade, fully automated data pipeline that connects directly to a **Google Cloud Platform (BigQuery)** data warehouse, programmatically engineers messy e-commerce logs, and dynamically compiles an interactive, production-ready **Business Intelligence Report** with zero manual intervention.
+An enterprise-grade, fully automated data pipeline that connects directly to a Google Cloud Platform (BigQuery) data warehouse, programmatically engineers messy e-commerce logs, performs statistical hypothesis testing, and dynamically compiles an interactive, production-ready Business Intelligence Report with zero manual intervention.
 
 ## 🚀 Live Automated Dashboard Demo
-Instead of reviewing static code outputs, you can experience the dynamically generated executive dashboard live on your browser:
+Instead of reviewing static code outputs, you can experience the dynamically generated executive dashboard live on your browser
 
 👉 ** [Launch Live BI Report Dashboard] (https://apostoliskalli-dot.github.io/Retail-Sales-Dataset/)**
 
@@ -21,8 +21,8 @@ Instead of reviewing static code outputs, you can experience the dynamically gen
 * **Feature Engineering & Time-Series Grouping:** Built custom date components. Formulated an operational **bi-monthly index matrix** to accurately monitor seasonal revenue pacing across 6 equal multi-month annual cycles.
 
 ### 3. Automated Auditing & EDA
-* Implemented `fg-data-profiling` to compile an exhaustive data health blueprint (`report.html`), systematically identifying column sparsity, null distribution frequencies, and variance behaviors prior to visual modeling.
-
+* Implemented 'fg-data-profiling' to compile an exhaustive data health blueprint (report.html), systematically identifying column sparsity, null distribution frequencies, and variance behaviors prior to visual modeling.
+* **Statistical Hypothesis Testing:** Applied parametric and non-parametric statistical tests (e.g., ANOVA, Chi-Square, T-Tests) to validate data-driven assumptions, evaluate variance significance across customer segments, and confirm performance trends with statistical rigor.
 ---
 
 ## 📈 Core BI Metrics Formulation (KPI Cards)
@@ -41,7 +41,10 @@ The header of the report utilizes unified Plotly subplots wrapped in stylized CS
 * **Elasticity Price vs. Quantity:** Multi-variable bubble chart tracking sales velocity correlation against unit pricing, scaling bubble dimensions to display gross revenue contributions per item.
 * **Temporal Distributions:** Visualizing multi-year transaction velocity through daily linear timelines outfitted with integrated custom range-slider window macro zoom panels.
 * **Seasonality Breakdown:** Proportional donut charts tracking distribution weights across months and specific days of the week, exposing critical cycle spikes (Thursdays & Sundays).
-
+* **Statistical Hypothesis Testing & Demographic Analysis:** 
+  * Evaluated continuous metrics using normality checks, confirming non-normal distributions and justifying the use of non-parametric methods.
+  * Executed **Kruskal-Wallis** tests to determine whether gender is a statistically significant factor influencing purchasing behavior.
+  * Segmented customers into distinct age cohorts and applied the **Kruskal-Wallis H-test** to identify statistically significant variance in spending patterns across age groups without assuming normality.
 ---
 
 ## 🖥️ Executive Deployment & Deliverables
